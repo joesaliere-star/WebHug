@@ -94,7 +94,3 @@
 ## Браузеры
 
 Современные Chrome, Safari, Firefox и Edge. Нужны Canvas 2D и Pointer Events. Проверено в Chromium, включая эмуляцию iPhone; на настоящем iPhone не тестировалось.
-
-## Лицензия
-
-[MIT](LICENSE). Перед публикацией замените `[ВАШЕ ИМЯ]` в файле `LICENSE`.
